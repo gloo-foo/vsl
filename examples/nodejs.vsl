@@ -1,0 +1,5 @@
+#!/usr/bin/env vsl
+image node:20-alpine
+volumes [~/.npmrc:~/.npmrc:ro]
+environment [NODE_ENV=development, DEBUG=*]
+command [npm, run, dev]

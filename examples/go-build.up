@@ -1,0 +1,12 @@
+image golang:1.21
+working_dir /workspace
+volumes [
+	~/.gitconfig:~/.gitconfig:ro
+	~/.ssh:~/.ssh:ro
+]
+environment {
+	GOOS linux
+	GOARCH amd64
+	CGO_ENABLED 0
+}
+command [go, build, -v, ./...]

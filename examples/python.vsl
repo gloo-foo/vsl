@@ -1,0 +1,10 @@
+#!/usr/bin/env vsl
+image python:3.11
+volumes [~/.aws:~/.aws:ro]
+environment {
+	PYTHONUNBUFFERED 1
+	ENV development
+}
+command [python, main.py]
+tty!bool true
+stdin_open!bool true

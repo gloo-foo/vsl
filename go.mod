@@ -7,6 +7,7 @@ toolchain go1.25.4
 tool (
 	github.com/golangci/golangci-lint/v2/cmd/golangci-lint
 	github.com/goreleaser/goreleaser/v2
+	github.com/uplang/tools/up
 	gotest.tools/gotestsum
 	mvdan.cc/gofumpt
 )
@@ -448,6 +449,7 @@ require (
 	github.com/ulikunitz/xz v0.5.15 // indirect
 	github.com/ultraware/funlen v0.2.0 // indirect
 	github.com/ultraware/whitespace v0.2.0 // indirect
+	github.com/uplang/tools/up v0.0.0-20251006050543-3dfa8e98d06b // indirect
 	github.com/uudashr/gocognit v1.2.0 // indirect
 	github.com/uudashr/iface v1.4.1 // indirect
 	github.com/vbatts/tar-split v0.12.1 // indirect

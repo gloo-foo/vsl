@@ -1171,6 +1171,8 @@ github.com/ultraware/whitespace v0.2.0 h1:TYowo2m9Nfj1baEQBjuHzvMRbp19i+RCcRYrSW
 github.com/ultraware/whitespace v0.2.0/go.mod h1:XcP1RLD81eV4BW8UhQlpaR+SDc2givTvyI8a586WjW8=
 github.com/uplang/go v0.0.1 h1:FdIbtMDnhT4X8nYsuxAe4Mm4xZILhKpkHbtOeWA884k=
 github.com/uplang/go v0.0.1/go.mod h1:ZfUObE0sXlKpY163BMF+BUm8cCeUgQV6E3x8vpvIcyM=
+github.com/uplang/tools/up v0.0.0-20251006050543-3dfa8e98d06b h1:wbBiMiSGmgOdELqrZww2U0Pvvr/084poJdT2S8Q0JDs=
+github.com/uplang/tools/up v0.0.0-20251006050543-3dfa8e98d06b/go.mod h1:Hx8n1jLNhPDgQX85zEK3s+roewPTjdeZKAM+WVozbLE=
 github.com/urfave/cli v1.22.10/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/urfave/cli/v2 v2.27.7 h1:bH59vdhbjLv3LAvIu6gd0usJHgoTTPhCFib8qqOwXYU=
 github.com/urfave/cli/v2 v2.27.7/go.mod h1:CyNAG/xg+iAOg0N4MPGZqVmv2rCoP267496AOXUZjA4=
